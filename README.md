@@ -39,7 +39,7 @@ This project is a simple HTML website that includes a navbar, several sections (
 To view the project:
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/korijason/gomycode-html-portfolio.git
    ```
 2. Open `index.html` in your web browser to view the website.
 
