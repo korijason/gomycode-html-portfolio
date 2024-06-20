@@ -1,4 +1,4 @@
-# HTML Project README
+# HTML-portfolio-website
 
 ## Project Overview
 This project is a simple HTML website that includes a navbar, several sections (home, about, work, resume, contact), and a footer.
